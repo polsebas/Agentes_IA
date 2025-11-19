@@ -607,10 +607,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 Desarrollador especializado en sistemas multi-agente e inteligencia artificial.
 
-- 💼 Portfolio: [Tu portfolio aquí]
-- 📧 Email: [Tu email aquí]
-- 🐙 GitHub: [Tu GitHub aquí]
-- 💼 LinkedIn: [Tu LinkedIn aquí]
+- 📧 Email: pablomereles@gmail.com
+- 🐙 GitHub: https://github.com/polsebas
+- 💼 LinkedIn: https://www.linkedin.com/in/pablomereles
 
 ---
 
